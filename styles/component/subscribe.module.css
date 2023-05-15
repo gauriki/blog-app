@@ -1,0 +1,45 @@
+
+
+.sub_content{
+	background-color: #F6F6F6;
+	border-radius: 20px;
+	margin: 40px 100px;
+	text-align: center;
+	padding:30px 40px
+}
+
+.font_bold{
+	font-size: 36px;
+	font-weight:700;
+	line-height: 46px;
+	color: #444444;
+	margin: 10px 0;
+
+}
+.font_normal{
+	font-size:15px;
+	font-weight: 400;
+	color:#7a7a7a;
+	line-height: 23px;
+	margin: 14px 0;
+}
+
+.flex input{
+	border: 1px solid gray;
+	font-size: 15px;
+	font-weight:500;
+	color: #c0c0c0;
+	border-radius:6px;
+	padding: 10px 50px;
+	margin-right: 16px;
+}
+
+.flex button{
+	font-size: 12px;
+	font-weight: 700;
+	line-height: 21px;
+	color: #ffff;
+	background-color: #444444;
+	padding: 10px 30px;
+	border-radius: 6px;
+}

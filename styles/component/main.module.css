@@ -1,0 +1,50 @@
+
+
+.main_container{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding: 26px 30px;
+	
+	gap: 10px;
+
+}
+.main_content{
+	margin: 0 10px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+
+.bg_gray{
+	background-color:#F6F6F6;
+	height: 160px;
+	width:300px;
+	border-radius: 4px;
+
+}
+.font_black{
+	text-align: center;
+	font-weight:700;
+	font-size: 23px;
+	line-height: 29px;
+	color: #444444;
+	margin: 10px 0;
+}
+.font_small{
+	font-size:14px;
+	font-weight: 400;
+	line-height: 20px;
+	color: #aaaaaa;
+	margin:4px 0 10px 0;
+}
+
+.font_medium{
+	text-align:center;
+	font-size: 15px;
+	font-weight: 400;
+	line-height: 21px;
+	color: #606060;
+	margin: 4px 0 16px 0;
+}
